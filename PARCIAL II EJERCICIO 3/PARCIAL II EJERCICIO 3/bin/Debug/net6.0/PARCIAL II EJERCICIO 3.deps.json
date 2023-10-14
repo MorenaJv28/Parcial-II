@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PARCIAL II EJERCICIO 3/1.0.0": {
+        "runtime": {
+          "PARCIAL II EJERCICIO 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PARCIAL II EJERCICIO 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
